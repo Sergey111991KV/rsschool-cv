@@ -1,4 +1,4 @@
-## Kosilov Sergey Vladimirovich
+## Kosilov Sergey Vladimirovich 
 
 ### Junior Frontend Developer
 
